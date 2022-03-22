@@ -10,7 +10,7 @@
 
 let osudi = [];
 
-for (let i = 1; 1 <= 48; i = i + 1) {
+for (let i = 1; 1 <= 49; i = i + 1) {
     osudi.push(i);
 }
 
